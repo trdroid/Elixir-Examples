@@ -8,7 +8,16 @@ I installed it using the Web Installer
 
 http://elixir-lang.org/install.html#windows
 
-### Snapshots
+### Starting Interative Shell
+
+```elixir
+$ iex
+Eshell V8.0  (abort with ^G)
+Interactive Elixir (1.3.2) - press Ctrl+C to exit (type h() ENTER for help)
+iex(1)>
+```
+
+### Installation Snapshots
 
 Elixir requires the installation of Erlang
 
