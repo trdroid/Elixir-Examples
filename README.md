@@ -1,5 +1,13 @@
 # Elixir
 
+### Links
+
+http://elixir-lang.org/
+
+**Source Code**
+
+https://github.com/elixir-lang/elixir
+
 ### Installation
 
 http://elixir-lang.org/install.html
